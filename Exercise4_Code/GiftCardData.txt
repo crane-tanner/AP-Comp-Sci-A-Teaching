@@ -1,0 +1,84 @@
+Entertainment,Disney,5.00
+Entertainment,Disney,20.00
+Entertainment,Disney,50.00
+Entertainment,Disney,150.00
+Entertainment,Hulu,10.00
+Entertainment,Hulu,40.00
+Entertainment,Hulu,100.00
+Entertainment,Hulu,200.00
+Entertainment,AMC Theatres,5.00
+Entertainment,AMC Theatres,20.00
+Entertainment,AMC Theatres,50.00
+Entertainment,AMC Theatres,150.00
+Entertainment,Google Play,10.00
+Entertainment,Google Play,40.00
+Entertainment,Google Play,100.00
+Entertainment,Google Play,200.00
+Restaurant,Cheesecake Factory,5.00
+Restaurant,Cheesecake Factory,20.00
+Restaurant,Cheesecake Factory,50.00
+Restaurant,Cheesecake Factory,150.00
+Restaurant,Starbucks,10.00
+Restaurant,Starbucks,40.00
+Restaurant,Starbucks,100.00
+Restaurant,Starbucks,200.00
+Restaurant,Outback Steakhouse,5.00
+Restaurant,Outback Steakhouse,20.00
+Restaurant,Outback Steakhouse,50.00
+Restaurant,Outback Steakhouse,150.00
+Restaurant,Bob Evan,10.00
+Restaurant,Bob Evan,40.00
+Restaurant,Bob Evan,100.00
+Restaurant,Bob Evan,200.00
+Retail,eBay,5.00
+Retail,eBay,20.00
+Retail,eBay,50.00
+Retail,eBay,150.00
+Retail,Uber,10.00
+Retail,Uber,40.00
+Retail,Uber,100.00
+Retail,Uber,200.00
+Retail,Aeropostale,10.00
+Retail,Aeropostale,40.00
+Retail,Aeropostale,100.00
+Retail,Aeropostale,200.00
+Gas,Shell,5.00
+Gas,Shell,20.00
+Gas,Shell,50.00
+Gas,Shell,150.00
+Gas,Chevron,10.00
+Gas,Chevron,40.00
+Gas,Chevron,100.00
+Gas,Chevron,200.00
+Gas,Exxon,5.00
+Gas,Exxon,20.00
+Gas,Exxon,50.00
+Gas,Exxon,150.00
+OnlineShopping,Visa Prepaid,5.00
+OnlineShopping,Visa Prepaid,20.00
+OnlineShopping,Visa Prepaid,50.00
+OnlineShopping,Visa Prepaid,150.00
+OnlineShopping,DoorDash,10.00
+OnlineShopping,DoorDash,40.00
+OnlineShopping,DoorDash,100.00
+OnlineShopping,DoorDash,200.00
+OnlineShopping,Home Depot,5.00
+OnlineShopping,Home Depot,20.00
+OnlineShopping,Home Depot,50.00
+OnlineShopping,Home Depot,150.00
+BeautyAndSpa,Sephora,5.00
+BeautyAndSpa,Sephora,20.00
+BeautyAndSpa,Sephora,50.00
+BeautyAndSpa,Sephora,150.00
+BeautyAndSpa,Whole Beauty,10.00
+BeautyAndSpa,Whole Beauty,40.00
+BeautyAndSpa,Whole Beauty,100.00
+BeautyAndSpa,Whole Beauty,200.00
+Sports,Marathon Sports,5.00
+Sports,Marathon Sports,20.00
+Sports,Marathon Sports,50.00
+Sports,Marathon Sports,150.00
+Sports,Paragon Sports,10.00
+Sports,Paragon Sports,40.00
+Sports,Paragon Sports,100.00
+Sports,Paragon Sports,200.00
