@@ -4,11 +4,20 @@ public class Employee
     private String name;
     private int salary;
 
-    public Employee(int id, String name, int salary) {
-        this.id = id;
-        this.salary = salary;
-        this.name = name;
+    public Employee(int new_id, String new_name, int new_salary) {
+        id = new_id;
+        name = new_name;
+        salary = new_salary;
     }
+
+    //Default constructor (no parameters)
+    public Employee() {
+        id = 0;
+        name = "N/A";
+        salary = 0;
+    }
+
+    // Mutator methods
 public void setId(int id) {
         this.id = id;
 }
@@ -18,6 +27,8 @@ public void setName(String name) {
 public void setSalary(int salary) {
         this.salary = salary;
 }
+
+//Accessor Methods
 public int getId() {
         return id;
 }
@@ -29,6 +40,7 @@ public String getName() {
 public int getSalary() {
         return salary;
 }
+
 public int calculatePay(int hours) {
         return hours*salary;
 
