@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class Main {
 
     public static void selectionSort(int[] arr) {
@@ -19,16 +20,11 @@ public class Main {
     public static void main(String[] args) {
         int[] array = {6, 8, 7, 1, 5, 9, 20, 19, 2, 3, 4,13};
 
-        System.out.println("Original array: ");
-        for (int j : array) {
-            System.out.print(j + " ");
-        }
+        System.out.println("Original array: " + Arrays.toString(array));
 
         selectionSort(array);
 
-        System.out.println("\nSorted array: ");
-        for(int num : array){
-            System.out.print(num + " ");
-        }
+        System.out.println("\nSorted array: " + Arrays.toString(array));
+
     }
 }
