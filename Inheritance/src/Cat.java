@@ -13,4 +13,8 @@ public class Cat extends Pet {
     public void makeNoise() {
         System.out.println("Meow");
     }
+
+    public String printInfo() {
+        return "Name: " + name + ", Age: " + age + ", Breed: " + catBreed + ", ID: " + id;
+    }
 }
