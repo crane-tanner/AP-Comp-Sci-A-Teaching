@@ -1,4 +1,6 @@
-public class Main {
+public class Main { //2D arrays are simply arrays inside of arrays
+                    // int[row_index][column_index]
+                    // You can think of it as a matrix if you are more familiar with math terms
     public static void main(String[] args) {
         int[][] array = {{1, 4, 8},
                          {5, 2, 3},
@@ -6,10 +8,10 @@ public class Main {
                         };
 
         mult2D(array);
-        for (int i = 0; i < array.length; i++) {
+        for (int[] ints : array) {
             System.out.println();
-            for (int j = 0; j < array[i].length; j++) {
-                System.out.print(array[i][j] + " ");
+            for (int anInt : ints) {
+                System.out.print(anInt + " ");
             }
 
         }

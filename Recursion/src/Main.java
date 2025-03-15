@@ -4,7 +4,7 @@ public class Main {
     // We can use recursion to make efficient searching & sorting algorithms
     // Examples: binarySearch, mergeSort
     public static void main(String[] args) {
-        System.out.print(fibonacci(21));
+        System.out.print(fibonacci(2));
     }
 
     public static int fibonacci(int n) {
